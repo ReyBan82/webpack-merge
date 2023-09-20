@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "clone-deep": "^4.0.1",
-    "wildcard": "^2.0.0"
+    "wildcard": "^2.0.1"
   },
   "devDependencies": {
     "@types/estree": "0.0.48",
